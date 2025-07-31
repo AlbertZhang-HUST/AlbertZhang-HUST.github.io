@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![AlbertZhang-HUST](https://img.shields.io/badge/AlbertZhang-HUST-github-blue?logo=github)](https://github.com/AlbertZhang-HUST)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a PhD student in the Department of Earth and Planetary Sciences (EPS) at Huazhong University of Science and Technology.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: dlpuzzy[at]sina.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Communication Engineering, Dalian Polytechnic University, 2022.09—2025.06\
+B.E., IoT Engineering, Shanxi University, 2018.09—2022.06.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Design and Analysis of Chaotic System, Chaotic Cryptography, Computer Vision applied in Information Security.
 
