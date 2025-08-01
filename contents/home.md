@@ -1,7 +1,3 @@
-\[!\[AlbertZhang-HUST](https://img.shields.io/badge/albertzhang-hust-github-blue?logo=github)](https://github.com/albertzhang-hust)
-
-
-
 He is currently a PhD student in the School of Artificial Intelligence and Automation (AIA) at Huazhong University of Science and Technology.
 
 #### Contact
