@@ -13,7 +13,7 @@
 
 5- <strong>Z. Zhang</strong>, J. Mou, N. Zhou, S. Banerjee, Y. Cao*. Multi-cube encryption scheme for multi-type images based on modified Klotski game and hyperchaotic map. <strong>Nonlinear Dynamics</strong>.  [[Paper]](https://doi.org/10.1007/s11071-024-09292-6)
 
-6- <strong>Z. Zhang</strong>, Y. Cao*, N. Zhou, X. Xu, J. Mou*. Novel Discrete Initial-Boosted Tabu Learning Neuron: Dynamical Analysis, DSP implementation, and Batch Medical Image Encryption. <strong>Applied Intelligence</strong>. <strong>(Indexed in the ESI High Citation Database)</strong>. <strong>(Indexed in the ESI High Citation Database)</strong>. [[Paper]](https://doi.org/10.1007/s10489-024-05918-9)
+6- <strong>Z. Zhang</strong>, Y. Cao*, N. Zhou, X. Xu, J. Mou*. Novel Discrete Initial-Boosted Tabu Learning Neuron: Dynamical Analysis, DSP implementation, and Batch Medical Image Encryption. <strong>Applied Intelligence</strong>. <strong>(Indexed in the ESI High Citation Database)</strong>. [[Paper]](https://doi.org/10.1007/s10489-024-05918-9)
 
 7- <strong>Z. Zhang</strong>, Y. Cao, H. Jahanshahi, J. Mou*. Chaotic color multi-image compression-encryption/LSB data type steganography scheme for NFT transaction security. <strong>Journal of King Saud University-Computer and Information Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.jksuci.2023.101839)
 
