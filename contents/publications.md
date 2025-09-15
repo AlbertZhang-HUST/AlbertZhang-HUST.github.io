@@ -5,7 +5,7 @@
 
 1- J. Mou*, <strong>Z. Zhang*</strong>, S. Banerjee, Y. Zhang. Combining Semi-tensor Product Compressed Sensing and Session Keys for Low-cost encryption of batch information in WBANs. <strong>IEEE Internet of Things Journal</strong>. [[Paper]](https://doi.org/10.1109/JIOT.2024.3429349)
 
-2- J. Mou*, <strong>Z. Zhang*</strong>, N. Zhou, Y. Zhang, Y. Cao. Mosaic Tracking: lightweight batch video frame awareness multi-target encryption scheme based on a novel discrete Tabu learning neuron and YoloV5. <strong>IEEE Internet of Things Journal</strong>. <strong>(Indexed in the ESI High Citation Database)</strong>. [[Paper]](https://doi.org/10.1109/JIOT.2024.3482289)
+2- J. Mou*, <strong>Z. Zhang*</strong>, N. Zhou, Y. Zhang, Y. Cao. Mosaic Tracking: lightweight batch video frame awareness multi-target encryption scheme based on a novel discrete Tabu learning neuron and YoloV5. <strong>IEEE Internet of Things Journal</strong>. <strong>(Indexed in the ESI High Citation Database)</strong>. <strong>(Indexed in the ESI High Citation Database)</strong>. [[Paper]](https://doi.org/10.1109/JIOT.2024.3482289)
 
 3- S. Gao, <strong>Z. Zhang</strong>, H. H. C. Lu, S. Ding*, J. Mou, U. Erkan, A. Toktas, Q. Li*, C. Wang, Y. Cao*. A parallel color image encryption algorithm based on a 2D logistic-rulkov neuron map. <strong>IEEE Internet of Things Journal</strong>. [[Paper]](https://doi.org/10.1109/JIOT.2025.3540097)
 
