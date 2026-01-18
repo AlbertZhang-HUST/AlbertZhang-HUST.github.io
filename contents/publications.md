@@ -1,10 +1,18 @@
 #### Submitted
 1- J. Mou*, <strong>Z. Zhang*</strong>, Y. Cao, S. Banerjee, Y. Zhang. HVPPF: A Hierarchical Visual Privacy Protection Framework for Cloud Services Customized to Balance Privacy and Usability. <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>. Major Revision.
 
-2- S. Gao, <strong>Z. Zhang*</strong>, H. H. C. Lu, Y. Cao, N. Zhou, Y. Zhang, J. Mou*. Vanishing Magic: An interactive reversible object removal and region hiding scheme via multi-level Siamese filtering and chaotic random embedding. <strong>IEEE Transactions on Consumer Eletronics</strong>. Submitted.
+2- S. Gao, <strong>Z. Zhang*</strong>, H. H. C. Lu, Y. Cao, N. Zhou, Y. Zhang, J. Mou*. Vanishing Magic: An interactive reversible object removal and region hiding scheme via multi-level Siamese filtering and chaotic random embedding. <strong>IEEE Transactions on Dependable and Secure Computing</strong>. Submitted.
 
 3- <strong>Z. Zhang</strong>, X. Xu*, N. Zhou, S. Banerjee, Y. Cao*, S. Gao, J. Mou. Efficient and Compatible Multi-image Encryption Scheme with a Novel
  Three-layer Architecture to Protect the Privacy of Medical Images. <strong>Expert Systems With Applications</strong>. Submitted.
+
+
+#### Submitted works during period of PhD
+1- <strong>Z. Zhang</strong>, X. Wang*, D. Qin, X. Leng, T. Ma, J. Mou, Z. Zeng. STOP^3: Small/Tiny-Object Perceptual Privacy Protection for UAVs via a Novel Robust Hyper-chaotic Map and Multi-scale Feature Hybrid Pyramid Network. <strong>IEEE Transactions on Dependable and Secure Computing</strong>. Submitted.
+
+2- X. Leng, X. Wang*, <strong>Z. Zhang</strong>, Z. Zeng. Memristive Neural Network with Controllable Extreme Multistability and Its Application in Multi-Type Healthcare Data Encryption. <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>. Submitted.
+
+3- X. Leng, X. Wang*, <strong>Z. Zhang</strong>, Z. Zeng. High-Security Transmission Protection for Heterogeneous Medical Multi-images via Multistable Neural Networks and Semi-Tensor Product. <strong>IEEE Transactions on Dependable and Secure Computing</strong>. Submitted.
 
 #### Publishment during period of master
 
