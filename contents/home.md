@@ -18,3 +18,9 @@ B.E., IoT Engineering, Business College of Shanxi University, 2018.09—2022.06.
 
 Design and Analysis of Chaotic System, Chaotic Cryptography, Computer Vision applied in Information Security.
 
+#### News
+
+2026.01 A paper is accepted by IEEE TCSVT(Submission Date Record:2025.3.26-2026.1.19)!
+
+2026.01 My first work during Ph.D student is submitted to IEEE TDSC, best wishes for myself!
+
