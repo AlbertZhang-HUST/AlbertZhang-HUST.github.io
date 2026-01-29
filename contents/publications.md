@@ -13,7 +13,7 @@
 3- X. Leng, X. Wang*, <strong>Z. Zhang</strong>, Z. Zeng. High-Security Transmission Protection for Heterogeneous Medical Multi-images via Multistable Neural Networks and Semi-Tensor Product. <strong>IEEE Transactions on Dependable and Secure Computing</strong>. Submitted.
 
 #### Research works during period of M.S
-1- J. Mou*, <strong>Z. Zhang*</strong>, Y. Cao, S. Banerjee, Y. Zhang. HVPPF: A Hierarchical Visual Privacy Protection Framework for Cloud Services Customized to Balance Privacy and Usability. <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>, DOI:10.1109/TCSVT.2026.3657380. Accept as Transactions Paper (19-Jan-2026).
+1- J. Mou*, <strong>Z. Zhang*</strong>, Y. Cao, S. Banerjee, Y. Zhang. HVPPF: A Hierarchical Visual Privacy Protection Framework for Cloud Services Customized to Balance Privacy and Usability. <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>.[[Paper]](https://doi.org/10.1109/TCSVT.2026.3657380)
 
 2- J. Mou*, <strong>Z. Zhang*</strong>, S. Banerjee, Y. Zhang. Combining Semi-tensor Product Compressed Sensing and Session Keys for Low-cost encryption of batch information in WBANs. <strong>IEEE Internet of Things Journal</strong>. [[Paper]](https://doi.org/10.1109/JIOT.2024.3429349)
 
