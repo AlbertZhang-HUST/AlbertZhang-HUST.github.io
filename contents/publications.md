@@ -2,7 +2,7 @@
 1- S. Gao, <strong>Z. Zhang*</strong>, H. H. C. Lu, Y. Cao, N. Zhou, Y. Zhang, J. Mou*. Vanishing Magic: An interactive reversible object removal and region hiding scheme via multi-level Siamese filtering and chaotic random embedding. <strong>IEEE Transactions on Dependable and Secure Computing</strong>. Submitted.
 
 2- <strong>Z. Zhang</strong>, X. Xu*, N. Zhou, S. Banerjee, Y. Cao*, S. Gao, J. Mou. Efficient and Compatible Multi-image Encryption Scheme with a Novel
- Three-layer Architecture to Protect the Privacy of Medical Images. <strong>Expert Systems With Applications</strong>. Submitted.
+ Three-layer Architecture to Protect the Privacy of Medical Images. <strong>European Physical Journal Plus</strong>. Submitted.
 
 
 #### Submitted works during period of Ph.D
