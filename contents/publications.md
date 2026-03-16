@@ -21,7 +21,7 @@
 
 4- S. Gao, <strong>Z. Zhang</strong>, H. H. C. Lu, S. Ding*, J. Mou, U. Erkan, A. Toktas, Q. Li*, C. Wang, Y. Cao*. A parallel color image encryption algorithm based on a 2D logistic-rulkov neuron map. <strong>IEEE Internet of Things Journal</strong>. <strong>(Indexed in the ESI Hot Paper Database)</strong>. [[Paper]](https://doi.org/10.1109/JIOT.2025.3540097)
 
-5- S. Gao, <strong>Z. Zhang</strong>, Q. Li*, S. Ding*, H. H. C. Lu, Y. Cao, X. Xu, C. Wang, J. Mou*. Encrypt a Story: A Video Segment Encryption Method Based on the Discrete Sinusoidal Memristive Rulkov Neuron. <strong>IEEE Transactions on Dependable and Secure Computing</strong>. [[Paper]](https://doi.org/10.1109/TDSC.2025.3603570)
+5- S. Gao, <strong>Z. Zhang</strong>, Q. Li*, S. Ding*, H. H. C. Lu, Y. Cao, X. Xu, C. Wang, J. Mou*. Encrypt a Story: A Video Segment Encryption Method Based on the Discrete Sinusoidal Memristive Rulkov Neuron. <strong>IEEE Transactions on Dependable and Secure Computing</strong>. <strong>(Indexed in the ESI Hot Paper Database)</strong>. [[Paper]](https://doi.org/10.1109/TDSC.2025.3603570)
 
 6- <strong>Z. Zhang</strong>, J. Mou, N. Zhou, S. Banerjee, Y. Cao*. Multi-cube encryption scheme for multi-type images based on modified Klotski game and hyperchaotic map. <strong>Nonlinear Dynamics</strong>.  [[Paper]](https://doi.org/10.1007/s11071-024-09292-6)
 
