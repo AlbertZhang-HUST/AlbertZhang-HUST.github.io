@@ -24,3 +24,5 @@ Design and Analysis of Chaotic System, Chaotic Cryptography, Computer Vision app
 
 2026.01 My first work during Ph.D student is submitted to IEEE TDSC, best wishes for myself!
 
+2026.03 Our new work is accpeted by IEEE TCSVT, Congratulations to Dr. Leng.
+
