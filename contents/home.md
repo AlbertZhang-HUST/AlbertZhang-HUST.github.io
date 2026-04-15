@@ -1,4 +1,4 @@
-He is currently a PhD student in the School of Artificial Intelligence and Automation (AIA) at Huazhong University of Science and Technology.
+He is currently pursuing a Doctor of Engineering degree in Control Science and Engineering at Huazhong University of Science and Technology. He has published 10+ SCI papers, including in IEEE TCSVT, IEEE IOTJ, IEEE TDSC, and Nonlinear Dynamics. Among these, 4 papers have been selected for the ESI Highly Cited Papers database, and 1 paper has been selected as a Hot Paper. His primary research focuses on chaos theory and chaotic cryptography, information security, and memristor circuit design.
 
 #### Contact
 
@@ -16,7 +16,7 @@ B.E., IoT Engineering, Business College of Shanxi University, 2018.09—2022.06.
 
 #### Research Interests
 
-Design and Analysis of Chaotic System, Chaotic Cryptography, Computer Vision applied in Information Security.
+<strong>Design and Analysis of Chaotic System</strong>, <strong>Chaotic Cryptography</strong>, <strong>Computer Vision applied in Information Security</strong>.
 
 #### News
 

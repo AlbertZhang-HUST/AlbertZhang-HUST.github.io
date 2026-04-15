@@ -1,4 +1,4 @@
-#### Updated on April 15, 2026.
+#### <font color="red">Updated on April 15, 2026.</font>
 
 #### Submitted works during period of M.S
 1- S. Gao, <strong>Z. Zhang*</strong>, H. H. C. Lu, Y. Cao, N. Zhou, Y. Zhang, J. Mou*. Vanishing Magic: An interactive reversible object removal and region hiding scheme via multi-level Siamese filtering and chaotic random embedding. <strong>IEEE Transactions on Dependable and Secure Computing</strong>. Major Revision.
@@ -10,7 +10,7 @@
 #### Research works during period of Ph.D
 1- <strong>Z. Zhang</strong>, X. Wang*, D. Qin, X. Leng, T. Ma, J. Mou, Z. Zeng. STOP^3: Small/Tiny-Object Perceptual Privacy Protection for UAVs via a Novel Robust Hyper-chaotic Map and Multi-scale Feature Hybrid Pyramid Network. <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>. Submitted.
 
-2- X. Leng, X. Wang*, <strong>Z. Zhang</strong>, Z. Zeng. Memristive Neural Network with Controllable Extreme Multistability and Its Application in Multi-Type Healthcare Data Encryption. <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>. Accepted as a Transactions Paper for publication.
+2- X. Leng, X. Wang*, <strong>Z. Zhang</strong>, Z. Zeng. Memristive Neural Network with Controllable Extreme Multistability and Its Application in Multi-Type Healthcare Data Encryption. <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>. Accepted as a Transactions Paper for publication. [[Paper]](https://doi.org/10.1109/TCSVT.2026.3678993)
 
 3- X. Leng, X. Wang*, <strong>Z. Zhang</strong>, Z. Zeng. High-Security Transmission Protection for Heterogeneous Medical Multi-images via Multistable Neural Networks and Semi-Tensor Product. <strong>Nonlinear Dynamics</strong>. Submitted.
 
