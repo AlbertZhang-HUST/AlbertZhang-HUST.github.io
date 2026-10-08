@@ -1,15 +1,17 @@
 #### <font color="red">Updated on August 20, 2026.</font>
 
 #### Research works during period of Ph.D
-1- <strong>Z. Zhang</strong>, X. Wang*, D. Qin, X. Leng, T. Ma, J. Mou, Z. Zeng. STOP^3: Small/Tiny-Object Perceptual Privacy Protection for UAVs via a Novel Robust Hyper-chaotic Map and Multi-scale Feature Hybrid Pyramid Network. <strong>Nonlinear Dynamics</strong>. Submitted.
+1- <strong>Z. Zhang</strong>, X. Wang*, D. Qin, X. Leng, T. Ma, Z. Zeng. STOP^3: Small/Tiny-Object Perceptual Privacy Protection for UAVs via a Novel Robust Hyper-chaotic Map and Multi-scale Feature Hybrid Pyramid Network. <strong>IEEE Internet of Things Jounral</strong>. Submitted.
 
-2- <strong>Z. Zhang</strong>, X. Wang*, D. Qin, X. Leng, T. Ma, J. Mou, Z. Zeng. Multi-end Controllable Multi-grained Encryption Framework of 3D Model for Hierarchical Preview and Copyright Protection. <strong>IEEE Transactions on Automation Science and Engineering</strong>. Submitted.
+2- <strong>Z. Zhang</strong>, X. Wang*, D. Qin, X. Leng, Z. Zeng. Multi-end Controllable Multi-grained Encryption Framework of 3D Model for Hierarchical Preview and Copyright Protection. <strong>IEEE Transactions on Automation Science and Engineering</strong>. Submitted.
 
-3- X. Leng, X. Wang*, <strong>Z. Zhang</strong>, Z. Zeng. Memristive Neural Network with Controllable Extreme Multistability and Its Application in Multi-Type Healthcare Data Encryption. <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>. [[Paper]](https://doi.org/10.1109/TCSVT.2026.3678993)
+3- <strong>Z. Zhang</strong>, X. Wang*, X. Chen, X. Leng, T. Ma, J. Mou, Z. Zeng. A Decoder–Encoder Architecture for Globally Bijective and Collision free Chaos-based PRNGs With FPGA Implementation. <strong>IEEE Transactions on Instrumentation and Measurement</strong>. Submitted.
 
-4- X. Leng, X. Wang*, <strong>Z. Zhang</strong>, Z. Zeng. A Memristive Hopfield Neural Network With Non-Uniform Multi-Scroll Attractors for Book-Page-Inspired Secure Medical Multi-Image Transmission. <strong>IEEE Internet of Things Journal</strong>. Accepted.
+4- X. Leng, X. Wang*, <strong>Z. Zhang</strong>, Z. Zeng. Memristive Neural Network with Controllable Extreme Multistability and Its Application in Multi-Type Healthcare Data Encryption. <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>. [[Paper]](https://doi.org/10.1109/TCSVT.2026.3678993)
 
-5- X. Leng, X. Wang*, <strong>Z. Zhang</strong>, Z. Zeng. Multi-Image Encryption with Memristive Hopfield Neural Networks and Semi-Tensor Product. <strong>Nonlinear Dynamics</strong>. Accept.
+5- X. Leng, X. Wang*, <strong>Z. Zhang</strong>, Z. Zeng. A Memristive Hopfield Neural Network With Non-Uniform Multi-Scroll Attractors for Book-Page-Inspired Secure Medical Multi-Image Transmission. <strong>IEEE Internet of Things Journal</strong>. Accepted.
+
+6- X. Leng, X. Wang*, <strong>Z. Zhang</strong>, Z. Zeng. Multi-Image Encryption with Memristive Hopfield Neural Networks and Semi-Tensor Product. <strong>Nonlinear Dynamics</strong>. Accept.
 
 #### Research works during period of M.S
 1- S. Gao, <strong>Z. Zhang*</strong>, H. H. C. Lu, Y. Cao, N. Zhou, Y. Zhang, J. Mou*. Vanishing Magic: An interactive reversible object removal and region hiding scheme via multi-level Siamese filtering and chaotic random embedding. <strong>IEEE Transactions on Dependable and Secure Computing</strong>. Accepted.
